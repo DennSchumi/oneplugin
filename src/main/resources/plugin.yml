@@ -1,0 +1,4 @@
+name: OnePlugin
+version: '${project.version}'
+main: dev.unowly.oneplugin.OnePlugin
+api-version: '1.20'

@@ -1,0 +1,20 @@
+Teams:
+  Admin:
+    members:
+      - "uuid-1"
+      - "uuid-2"
+    prefix: "[Admin] "
+    color: "RED"
+  Developer:
+    members:
+      - "uuid-3"
+    prefix: "[Dev] "
+    color: "AQUA"
+  Freundin:
+    members:
+      - "uuid-4"
+    prefix: "[Freundin] "
+    color: "LIGHT_PURPLE"
+tablist:
+  header: "§k§cHerzlich Willkommen auf §8unwoly.dev §k"
+  footer: ""
