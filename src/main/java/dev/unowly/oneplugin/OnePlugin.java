@@ -1,6 +1,6 @@
 package dev.unowly.oneplugin;
 
-import dev.unowly.oneplugin.listener.chunkloader.Chunkloader;
+//import dev.unowly.oneplugin.listener.chunkloader.Chunkloader;
 import org.bukkit.plugin.java.JavaPlugin;
 import dev.unowly.oneplugin.teams.TeamManager;
 import dev.unowly.oneplugin.listener.PlayerJoinListener;
