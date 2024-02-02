@@ -22,6 +22,7 @@ public class PlayerJoinListener implements Listener {
         this.teamManager = teamManager;
     }
 
+
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
