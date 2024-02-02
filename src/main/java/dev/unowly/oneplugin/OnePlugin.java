@@ -18,7 +18,7 @@ public class OnePlugin extends JavaPlugin {
         teamManager = new TeamManager(this);
         teamManager.loadTeams();
         getServer().getPluginManager().registerEvents(new PlayerJoinListener(this, teamManager), this);
-        getServer().getPluginManager().registerEvents(new Chunkloader(), this);
+//        getServer().getPluginManager().registerEvents(new Chunkloader(), this);
     }
 
     public TeamManager getTeamManager() {
